@@ -12,7 +12,7 @@
 <!-- İndirme Butonu -->
 <br>
 <a href="https://github.com/Zenushia/PortVector/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/📥_PROJEYİ_İNDİR_(ZIP)-Click_to_Download-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download ZIP">
+  <img src="https://img.shields.io/badge/📥_Click_to_Download-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download ZIP">
 </a>
 
 </div>
